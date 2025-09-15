@@ -1,16 +1,7 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+#### Week1 
+In the first week, during discussions with Professor Ning Dayong, we identified two potential directions for the graduation project. One idea is to design an underwater robot with a maritime focus, and the other is to develop a device capable of detecting internal engine faults through acoustic analysis.
 
-- National Scholarship for Graduate Student, 2024.
 
-- First-Prize Scholarship (CUMT), 2024.
-
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+#### Week3
+<p class="patent-desc"></p>
